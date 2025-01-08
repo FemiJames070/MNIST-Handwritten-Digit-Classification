@@ -34,8 +34,8 @@ cd MNIST-Handwritten-Digits-Classification
 ### Results
 The model achieves approximately 97% accuracy on the test set after 5 training epochs.
 Example output:
-1. Accuracy: 0.9721
-2. Loss: 0.0999
+1. Accuracy: 0.9744
+2. Loss: 0.0897
 
 ### Sample Prediction
 For the 100th test image:
